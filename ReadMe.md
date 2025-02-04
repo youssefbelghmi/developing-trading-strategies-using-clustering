@@ -1,4 +1,4 @@
-# Development of Trading Strategies Based on Clustered Periods
+# Development of Trading Strategies Leveraging Clustering
 
 ## Project Description
 

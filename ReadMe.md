@@ -4,18 +4,9 @@
 
 This project focuses on creating trading strategies using clustering techniques to group intraday trading periods based on features like volatility, volume, and spread. The goal is to identify patterns and develop strategies tailored to each market condition. The process includes data preparation, clustering analysis, and backtesting to test performance and reliability. This approach aims to improve decision-making and optimize trading outcomes in dynamic financial markets.
 
-## Prerequisites
-
-Before you begin, make sure you have the following installed :
-- Python (version 3.10.0 or more).
-- The following Python libraries : NumPy, Pandas, ...
-- Jupyter Notebook (optional, but recommended for data mining).
-
-With these prerequisites, you'll be well-equipped to begin your project with confidence.
-
 ## Data Sources
 
-This study uses minute-level intraday stock data from companies listed in the S&P 500 during 2010, providing a detailed view of short-term market dynamics. The S&P 500, which tracks 500 major U.S. companies across sectors like technology, healthcare, and finance, offers broad economic representation, making it ideal for market analysis. The dataset, provided by our professor, is stored in Parquet files, with each file representing one trading day for a specific ticker. Covering all trading days in 2010, it enables precise analysis of trends, patterns, and market behavior.
+This study uses minute-level intraday stock data from companies listed in the S&P 500 during 2010, providing a detailed view of short-term market dynamics. The S&P 500, which tracks 500 major U.S. companies across sectors like technology, healthcare, and finance, offers broad economic representation, making it ideal for market analysis. The dataset is unfortunately not available directly in this repository due to memory constraints.
 
 ## Instructions
 

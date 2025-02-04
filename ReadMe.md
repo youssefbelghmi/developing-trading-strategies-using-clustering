@@ -2,7 +2,7 @@
 
 ## Project Description
 
-This project focuses on creating trading strategies using clustering techniques to group intraday trading periods based on features like volatility, volume, and spread. The goal is to identify patterns and develop strategies tailored to each market condition. The process includes data preparation, clustering analysis, and backtesting to test performance and reliability. This approach aims to improve decision-making and optimize trading outcomes in dynamic financial markets.
+This project aims to develop trading strategies by applying clustering techniques to group intraday trading periods based on factors such as volatility, volume, and spread. By identifying patterns, it enables the creation of strategies suited to different market conditions. The process involves data preparation, clustering analysis, and backtesting to assess performance and reliability. This approach enhances decision-making and optimizes trading results in dynamic financial markets.
 
 ## Data Sources
 

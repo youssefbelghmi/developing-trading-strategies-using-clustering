@@ -17,20 +17,9 @@ With these prerequisites, you'll be well-equipped to begin your project with con
 
 This study uses minute-level intraday stock data from companies listed in the S&P 500 during 2010, providing a detailed view of short-term market dynamics. The S&P 500, which tracks 500 major U.S. companies across sectors like technology, healthcare, and finance, offers broad economic representation, making it ideal for market analysis. The dataset, provided by our professor, is stored in Parquet files, with each file representing one trading day for a specific ticker. Covering all trading days in 2010, it enables precise analysis of trends, patterns, and market behavior.
 
-## File List
-
-In this GitHub repository, you will find the following files :
-- **ReadMe** : This document provides essential project details, guidelines, and instructions to help you navigate through the repository.
-- **notebook** : Here, you'll find the main Jupyter Notebook containing the project's code.
-- **report** : Detailed document that describes the conclusions, hypotheses, assertions, findings and explains the thought process behind the implementation of the project, including some parts of codes.
-
-The previously mentioned files, which are not present in this GitHub repository, are available via the following link : https://drive.google.com/drive/folders/1OPpM4h81X0BbYWkzu7kgAEGEfEu6Gj3M?usp=drive_link.
-
-## Steps
-
 ## Instructions
 
-For the smooth running of the project, please follow these simple instructions : ...
+For the smooth running of the project, please follow the simple instructions described in the Project_Instructions.txt file.
 
 ## Authors
 

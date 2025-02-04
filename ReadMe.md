@@ -19,7 +19,7 @@ This study uses minute-level intraday stock data from companies listed in the S&
 
 ## Instructions
 
-For the smooth running of the project, please follow the simple instructions described in the Project_Instructions.txt file.
+For the smooth running of the project, please follow the simple instructions described in the project_instructions.txt file.
 
 ## Authors
 

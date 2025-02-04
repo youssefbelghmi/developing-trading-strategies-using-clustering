@@ -1,0 +1,29 @@
+
+Instructions to Run the Project Correctly
+
+To execute this project optimally, please follow the steps below:
+
+1. Organizing Files:
+- Place all notebooks and data in a single folder. This ensures that the scripts can access the files without any path issues.
+
+2. Available Data:
+The project can be run in demo mode or full analysis mode, depending on the value of the 'full_analysis' variable defined in the main notebook file:
+
+- Demo Mode (full_analysis = False) :  
+  The data used in this case is located in a folder named S&P500_demo. This folder must be extracted from a ZIP file provided in the Moodle submission. Ensure that you unzip the file before using it.
+  
+- Full Analysis Mode (full_analysis = True) : 
+  The complete data is available in a ZIP file downloadable via WeTransfer at the following link: [https://we.tl/t-yJg4LIk2gq](https://we.tl/t-yJg4LIk2gq). This data is only available for 7 days starting Sunday, January 26th, 8 PM due to free account limitations on WeTransfer. Make sure to download and extract this data before it becomes unavailable.
+
+3. Configuration and Execution:
+A. Ensure the following folders are correctly placed in the same directory as the notebooks:
+   - S&P500_demo for demo mode.
+   - S&P500 for full analysis mode.
+B. Open the main notebook file.
+C. Modify the full_analysis variable:
+   - Set it to False to use demo mode (S&P500_demo).
+   - Set it to True to use full analysis mode (S&P500).
+D. Run the main  file.
+   - This script will automatically run the entire project and print the results of the strategies we have implemented.
+
+By following these steps, the project will be set up and ready to run without any issues.
